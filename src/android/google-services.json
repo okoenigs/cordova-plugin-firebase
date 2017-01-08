@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997063346750",
+    "firebase_url": "https://datosystem-app.firebaseio.com",
+    "project_id": "datosystem-app",
+    "storage_bucket": "datosystem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997063346750:android:1082efe191664b3a",
+        "android_client_info": {
+          "package_name": "com.bmacloud.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997063346750-2ddvgoednm55iltpgag54i4mf3ka99h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsE6p2CQgzfOJkowj2WZ0vXsQBn6KhIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
